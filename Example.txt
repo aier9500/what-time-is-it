@@ -1,0 +1,32 @@
+6:30
+7:45
+15:00
+16:30
+19:00
+21:00
+21:30
+@Eugene
+Eugene 1
+Eugene 2
+Eugene 3
+Eugene 4
+Eugene 5
+Eugene 6
+Eugene 7
+\\\
+6:30
+7:45
+15:00
+16:30
+19:00
+21:00
+21:30
+@Eve
+Eve 1
+Eve 2
+Eve 3
+Eve 4
+Eve 5
+Eve 6
+Eve 7
+\\\
